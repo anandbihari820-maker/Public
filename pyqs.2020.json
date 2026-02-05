@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "bpsc-2020-001",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The radiations used in the treatment of muscle ache are:",
+    "options": [
+      "Infrared",
+      "Microwave",
+      "Ultraviolet",
+      "X-ray",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-002",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The total resistance of a circuit having two parallel resistors is 1.403 kilo-ohm. If one of the resistors is 2.0 kilo-ohm, then the other resistor will be:",
+    "options": [
+      "1.403 kilo-ohm",
+      "2.0 kilo-ohm",
+      "3.403 kilo-ohm",
+      "470 kilo-ohm",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-003",
+    "subject": "Science",
+    "year": "2020",
+    "question": "On heating, the resistance of a semiconductor:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains the same",
+      "First increases and then decreases",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-004",
+    "subject": "Science",
+    "year": "2020",
+    "question": "Faraday constant:",
+    "options": [
+      "Depends on the amount of the electrolyte",
+      "Depends on the current passed in the electrolyte",
+      "Depends on the volume of the solvent in which the electrolyte is dissolved",
+      "Is a universal constant",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-005",
+    "subject": "Science",
+    "year": "2020",
+    "question": "‘Light-year’ is a unit of:",
+    "options": [
+      "Time",
+      "Speed",
+      "Distance",
+      "Intensity of light",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-006",
+    "subject": "Science",
+    "year": "2020",
+    "question": "Which of the following does not change when light travels from one medium to another?",
+    "options": [
+      "Velocity",
+      "Wavelength",
+      "Frequency",
+      "Refractive index",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-007",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The velocity of electromagnetic waves is:",
+    "options": [
+      "3 × 10^8 m/s",
+      "3 × 10^7 m/s",
+      "3 × 10^9 m/s",
+      "3 × 10^6 m/s",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-008",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The first man who placed his foot on the moon is:",
+    "options": [
+      "Leonov",
+      "Neil Armstrong",
+      "Michael Collins",
+      "James Van Allen",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-009",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The number of neutrons in the nucleus of plutonium nuclide (94Pu242) is:",
+    "options": [
+      "94",
+      "148",
+      "242",
+      "336",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-010",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The highest viscosity among the following is of:",
+    "options": [
+      "Water",
+      "Air",
+      "Blood",
+      "Honey",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-011",
+    "subject": "Science",
+    "year": "2020",
+    "question": "Milk is a poor source of:",
+    "options": [
+      "Calcium",
+      "Protein",
+      "Vitamin C",
+      "Carbohydrate",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-012",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The breath test conducted by police to check a drunken driver has which one of the following on the filter paper?",
+    "options": [
+      "Potassium dichromate – sulfuric acid",
+      "Potassium permanganate – sulfuric acid",
+      "Silica gel coated with silver nitrate",
+      "Turmeric",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-013",
+    "subject": "Science",
+    "year": "2020",
+    "question": "Glucose is converted to ethyl alcohol by the enzyme:",
+    "options": [
+      "Maltase",
+      "Invertase",
+      "Zymase",
+      "Diastase",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-014",
+    "subject": "Science",
+    "year": "2020",
+    "question": "Limewater is turned milky by:",
+    "options": [
+      "Carbon monoxide",
+      "Carbon dioxide",
+      "Oxygen",
+      "Ozone",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-015",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The incomplete burning of petrol and diesel produces:",
+    "options": [
+      "Nitric oxide",
+      "Nitrogen dioxide",
+      "Carbon dioxide",
+      "Carbon monoxide",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-016",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The pH of a solution changes from 3 to 6. The H⁺ ion concentration will:",
+    "options": [
+      "Increase 3 times",
+      "Decrease 3 times",
+      "Decrease 10 times",
+      "Decrease 1000 times",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-017",
+    "subject": "Science",
+    "year": "2020",
+    "question": "A mixture of sand and naphthalene can be separated by:",
+    "options": [
+      "Sublimation",
+      "Distillation",
+      "Chromatography",
+      "Fractional distillation",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-018",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The numbers of sigma and pi bonds in benzene are:",
+    "options": [
+      "3, 3",
+      "3, 6",
+      "12, 3",
+      "12, 6",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-019",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The elements present in urea are:",
+    "options": [
+      "C, H, O",
+      "C, N, O",
+      "C, H, N",
+      "C, H, N, O",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-020",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The poorest conductor of heat among the following is:",
+    "options": [
+      "Copper",
+      "Lead",
+      "Mercury",
+      "Zinc",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-021",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The vitamin which is effective in blood clotting is:",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin D",
+      "Vitamin K",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-022",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The female sex hormone is:",
+    "options": [
+      "Estrogen",
+      "Androgen",
+      "Insulin",
+      "Oxytocin",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-023",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The Nobel Prize for developing treatment of Parkinson’s disease was given to:",
+    "options": [
+      "Arvid Carlsson",
+      "John F. Enders",
+      "Robert B. Laughlin",
+      "Walter Kohn",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-024",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The malfunctioning of thyroid gland is due to the deficiency of:",
+    "options": [
+      "Vitamin A",
+      "Calcium",
+      "Iodine",
+      "Iron",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-025",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The sensitive area of the human tongue to bitterness is:",
+    "options": [
+      "Tip",
+      "Middle part",
+      "Posterior part",
+      "Edge",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-026",
+    "subject": "Science",
+    "year": "2020",
+    "question": "Ginger is a stem and not a root because:",
+    "options": [
+      "It stores food material",
+      "It has nodes and internodes",
+      "It grows horizontally in the soil",
+      "It lacks chlorophyll",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-027",
+    "subject": "Science",
+    "year": "2020",
+    "question": "The sweetest sugar among the following is:",
+    "options": [
+      "Fructose",
+      "Glucose",
+      "Maltose",
+      "Sucrose",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-028",
+    "subject": "Science",
+    "year": "2020",
+    "question": "Among the following, which is not a true fruit?",
+    "options": [
+      "Apple",
+      "Grape",
+      "Date",
+      "Plum",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-029",
+    "subject": "Science",
+    "year": "2020",
+    "question": "Legumes are highly nutritious because they are rich in:",
+    "options": [
+      "Fat",
+      "Protein",
+      "Oil",
+      "Starch",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-030",
+    "subject": "Science",
+    "year": "2020",
+    "question": "Clove, a spice, is obtained from which part of the plant?",
+    "options": [
+      "Fruit",
+      "Stem",
+      "Root",
+      "Flower bud",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-031",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Who has been appointed by the Board of Control for Cricket in India as the Head of All India Women’s Selection Committee?",
+    "options": [
+      "Mithu Mukherjee",
+      "Neetu David",
+      "Renu Margrate",
+      "V. Kalpana",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-032",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Who has won the Women’s Singles US Open Tennis Tournament, 2020?",
+    "options": [
+      "Naomi Osaka",
+      "Bianca Andreescu",
+      "Sofia Kenin",
+      "Karolina Pliskova",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-033",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Which athlete secured first position in the London Marathon held on 4th October, 2020?",
+    "options": [
+      "Eliud Kipchoge",
+      "Shura Kitata",
+      "Vincent Kipchumba",
+      "Sisay Lemma",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-034",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Which Indian cricketer along with M. S. Dhoni announced retirement from international cricket on 15th August, 2020?",
+    "options": [
+      "Suresh Raina",
+      "Harbhajan Singh",
+      "Bhuvneshwar Kumar",
+      "Rohit Sharma",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-035",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Who has been appointed as the Chairperson of the National School of Drama recently?",
+    "options": [
+      "Mahesh Bhatt",
+      "Akshay Kumar",
+      "Anupam Kher",
+      "Paresh Rawal",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-036",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Who is the Chairman of the Defence Research and Development Organisation?",
+    "options": [
+      "Surjeet Singh Deswal",
+      "Dr. G. Satheesh Reddy",
+      "Arvind Saxena",
+      "Charanjit Singh Attra",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-037",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "For which discipline have Dr. Bushra Ateeq and Dr. Ritesh Agarwal been selected for the Shanti Swarup Bhatnagar Prize, 2020?",
+    "options": [
+      "Chemical Sciences",
+      "Physical Sciences",
+      "Medical Sciences",
+      "Mathematical Sciences",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-038",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Who has been selected for the Nobel Peace Prize, 2020?",
+    "options": [
+      "European Union",
+      "World Food Programme",
+      "Robert B. Wilson",
+      "Paul R. Milgrom",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-039",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Which Indian film actor has been included in the Time Magazine’s list of 100 most influential people of 2020?",
+    "options": [
+      "Ayushmann Khurrana",
+      "Shah Rukh Khan",
+      "Ajay Devgn",
+      "Sunny Deol",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-040",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "How many Indian beaches have been recommended for the Blue Flag Certification recently?",
+    "options": [
+      "Six",
+      "Seven",
+      "Eight",
+      "Nine",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-041",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Ram Vilas Paswan started his political career from which political party?",
+    "options": [
+      "Janata Party",
+      "Bharatiya Lok Dal",
+      "Samyukta Socialist Party",
+      "Praja Socialist Party",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-042",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "When did the Election Commission of India issue a Press Note for the General Election to the Legislative Assembly of Bihar, 2020?",
+    "options": [
+      "23rd September, 2020",
+      "24th September, 2020",
+      "25th September, 2020",
+      "26th September, 2020",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-043",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "‘Ghar Tak Fiber’ scheme was launched on 21st September, 2020 through a video conference in which State?",
+    "options": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Bihar",
+      "Karnataka",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-044",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Bihar politician Late Raghuvansh Prasad Singh was for the first time elected to which Lok Sabha?",
+    "options": [
+      "Tenth Lok Sabha",
+      "Eleventh Lok Sabha",
+      "Twelfth Lok Sabha",
+      "Thirteenth Lok Sabha",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-045",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Which among the following is not a member of the Quadrilateral Security Dialogue?",
+    "options": [
+      "India",
+      "Japan",
+      "China",
+      "Australia",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-046",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Who represented India’s perspective in the Fifth BRICS Culture Ministers’ Meeting held through a video conference in September 2020?",
+    "options": [
+      "Prahlad Singh Patel",
+      "Ramesh Pokhriyal Nishank",
+      "Nitin Gadkari",
+      "Ravi Shankar Prasad",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-047",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Where was the 36th ASEAN Summit virtually held in June 2020?",
+    "options": [
+      "Thailand",
+      "Singapore",
+      "Indonesia",
+      "Vietnam",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-048",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Which of the following topped the Human Capital Index, 2020?",
+    "options": [
+      "Japan",
+      "South Korea",
+      "Singapore",
+      "Hong Kong",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-049",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Recently in the USA, ‘Operation MAGA’ is related to:",
+    "options": [
+      "Campaign against COVID-19",
+      "Donald Trump’s re-election campaign",
+      "Joseph Biden’s election campaign",
+      "‘Make Army Great Again’ campaign",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-050",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Which Arab state has started the first nuclear power plant?",
+    "options": [
+      "Iraq",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Egypt",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-051",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Which was the first Arab state to sign a peace deal with Israel?",
+    "options": [
+      "Egypt",
+      "Jordan",
+      "Bahrain",
+      "Sudan",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-052",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Which country assumed the role of Chairman of the International Labour Organization’s Governing Body from October 2020 to June 2021?",
+    "options": [
+      "Japan",
+      "New Zealand",
+      "Australia",
+      "India",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-053",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "‘Operation My Saheli’, launched in September 2020, aims to:",
+    "options": [
+      "Encourage self-defence education among girls",
+      "Boost the security of women passengers in trains",
+      "Explore new job opportunities for women",
+      "Boost awareness against girl child labour",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-054",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "On the first anniversary of the Fit India Movement, who gave the mantra ‘Fitness Ki Dose, Aadha Ghanta Roz’?",
+    "options": [
+      "Prime Minister Narendra Modi",
+      "Union Home Minister Amit Shah",
+      "Union Health Minister Dr. Harsh Vardhan",
+      "Yoga Guru Baba Ramdev",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-055",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "On the birth anniversary of Rajmata Vijaya Raje Scindia, which was released by Prime Minister Narendra Modi?",
+    "options": [
+      "Fifty-rupee coin",
+      "Fifty-rupee note",
+      "One-hundred-rupee coin",
+      "One-hundred-rupee note",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-056",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Which State’s short documentary film ‘Chi Lupo’ won the Dada Saheb Phalke Award, 2020?",
+    "options": [
+      "Manipur",
+      "Nagaland",
+      "Meghalaya",
+      "Arunachal Pradesh",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-057",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Which private sector bank has launched the ‘e-Kisaan Dhan’ app for farmers?",
+    "options": [
+      "Axis Bank",
+      "HDFC Bank",
+      "IDBI Bank",
+      "Kotak Mahindra Bank",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-058",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "At the international airport of which city did India launch its first COVID-19 testing facility?",
+    "options": [
+      "Kolkata",
+      "Delhi",
+      "Mumbai",
+      "Bengaluru",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-059",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "Rafale fighter aircraft was formally inducted into the Indian Air Force at which Air Force Station?",
+    "options": [
+      "Hindon",
+      "Sarsawa",
+      "Ambala",
+      "Amritsar",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-060",
+    "subject": "Current Affairs",
+    "year": "2020",
+    "question": "What is the name of India’s first indigenous anti-radiation missile?",
+    "options": [
+      "Tandav",
+      "Trinetra",
+      "Saksham",
+      "Rudram",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-061",
+    "subject": "History",
+    "year": "2020",
+    "question": "In which of the following Harappan cities have furrows of ploughed fields been found?",
+    "options": [
+      "Kalibangan",
+      "Dholavira",
+      "Mohenjo-daro",
+      "Lothal",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-062",
+    "subject": "History",
+    "year": "2020",
+    "question": "Triratna or Three Jewels—right knowledge, right faith and right action—are related to which religion?",
+    "options": [
+      "Buddhism",
+      "Hinduism",
+      "Jainism",
+      "Christianity",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-063",
+    "subject": "History",
+    "year": "2020",
+    "question": "Which ruler convened the Fourth Buddhist Council in Kashmir?",
+    "options": [
+      "Ashoka",
+      "Ajatashatru",
+      "Kanishka",
+      "Kalashoka",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-064",
+    "subject": "History",
+    "year": "2020",
+    "question": "Which philosophy of India propounded the atom theory?",
+    "options": [
+      "Yoga",
+      "Nyaya",
+      "Sankhya",
+      "Vaisheshika",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-065",
+    "subject": "History",
+    "year": "2020",
+    "question": "Which Delhi Sultan is known for adopting the ‘blood and iron’ policy?",
+    "options": [
+      "Iltutmish",
+      "Balban",
+      "Ala-ud-din Khalji",
+      "Muhammad bin Tughluq",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-066",
+    "subject": "History",
+    "year": "2020",
+    "question": "Which medieval Indian empire was famous for elaborated local self-government?",
+    "options": [
+      "Chalukya",
+      "Chola",
+      "Solanki",
+      "Parmar",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-067",
+    "subject": "History",
+    "year": "2020",
+    "question": "Pietra dura is related to which of the following?",
+    "options": [
+      "Decorating walls with floral designs made of semi-precious stones",
+      "Building sloping walls in minars",
+      "Use of arch in construction",
+      "Use of marble in buildings",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-068",
+    "subject": "History",
+    "year": "2020",
+    "question": "Which Mughal ruler established karkhanas for painting?",
+    "options": [
+      "Humayun",
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-069",
+    "subject": "History",
+    "year": "2020",
+    "question": "The dual system of governance in Bengal was enforced by:",
+    "options": [
+      "Warren Hastings",
+      "William Bentinck",
+      "Robert Clive",
+      "Lord Curzon",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-070",
+    "subject": "History",
+    "year": "2020",
+    "question": "Who participated in the Parliament of Religions held at Chicago in 1893?",
+    "options": [
+      "Dayananda Saraswati",
+      "Swami Vivekananda",
+      "Mahatma Gandhi",
+      "Raja Rammohan Roy",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-071",
+    "subject": "History",
+    "year": "2020",
+    "question": "Who established the Swaraj Party in 1923?",
+    "options": [
+      "Mahatma Gandhi",
+      "Vallabhbhai Patel",
+      "C. R. Das and Motilal Nehru",
+      "B. R. Ambedkar",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-072",
+    "subject": "History",
+    "year": "2020",
+    "question": "Who wrote the famous play ‘Neel Darpan’ depicting the oppression of indigo farmers?",
+    "options": [
+      "Sharat Chandra Chatterjee",
+      "Rabindranath Tagore",
+      "Barindra Ghosh",
+      "Dinabandhu Mitra",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-073",
+    "subject": "History",
+    "year": "2020",
+    "question": "The famous Battle of Wandiwash in 1760 was fought by the British against whom?",
+    "options": [
+      "The French",
+      "Spain",
+      "Mysore",
+      "Carnatic",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-074",
+    "subject": "History",
+    "year": "2020",
+    "question": "Which Act introduced the system of separate electorates in India?",
+    "options": [
+      "The Regulating Act, 1773",
+      "The Charter Act, 1833",
+      "The Pitt’s India Act, 1784",
+      "The Indian Councils Act, 1909",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-075",
+    "subject": "History",
+    "year": "2020",
+    "question": "The Kol Mutiny of 1831 under Buddho Bhagat took place in which region?",
+    "options": [
+      "Kutch",
+      "Singhbhum",
+      "Western Ghats",
+      "Satara",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-076",
+    "subject": "History",
+    "year": "2020",
+    "question": "Who spearheaded the Revolt of 1857 in Bihar?",
+    "options": [
+      "Nana Saheb",
+      "Tatya Tope",
+      "Kunwar Singh",
+      "Maulavi Ahmadullah",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-077",
+    "subject": "History",
+    "year": "2020",
+    "question": "Who drew Mahatma Gandhi’s attention to the plight of indigo peasants in Champaran?",
+    "options": [
+      "Rajendra Prasad",
+      "Anugrah Narayan Sinha",
+      "Acharya Kripalani",
+      "Raj Kumar Shukla",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-078",
+    "subject": "History",
+    "year": "2020",
+    "question": "What was the first capital of the ancient Mahajanapada Magadha?",
+    "options": [
+      "Pataliputra",
+      "Vaishali",
+      "Champa",
+      "Anga",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 4,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-079",
+    "subject": "History",
+    "year": "2020",
+    "question": "Swami Sahajananda was associated with which movement?",
+    "options": [
+      "Tribal movement in Bihar",
+      "Labour movement in Bihar",
+      "Peasant movement in Bihar",
+      "Caste movement in Bihar",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-080",
+    "subject": "History",
+    "year": "2020",
+    "question": "Which was Mahatma Gandhi’s first Satyagraha movement in India involving civil disobedience?",
+    "options": [
+      "Champaran",
+      "Kheda",
+      "Ahmedabad",
+      "Rowlatt Satyagraha",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-081",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "The largest island of Japan in terms of geographical area is:",
+    "options": [
+      "Hokkaido",
+      "Honshu",
+      "Shikoku",
+      "Kyushu",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-082",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Greenland is a part of which country?",
+    "options": [
+      "Denmark",
+      "Finland",
+      "Canada",
+      "United Kingdom",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-083",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Which country had the largest Indian population as of December 2018?",
+    "options": [
+      "United Arab Emirates",
+      "Malaysia",
+      "United Kingdom",
+      "United States of America",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-084",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Which country recorded the highest annual gold output in 2019?",
+    "options": [
+      "Russia",
+      "Australia",
+      "China",
+      "United States of America",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-085",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Which continent has the highest number of countries?",
+    "options": [
+      "Europe",
+      "Asia",
+      "Africa",
+      "North America",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-086",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "The State of India with the highest percentage of tribal population as per the 2011 Census is:",
+    "options": [
+      "Arunachal Pradesh",
+      "Nagaland",
+      "Mizoram",
+      "Meghalaya",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-087",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Which of the following coffee-growing areas is not in Karnataka?",
+    "options": [
+      "Chikmagalur",
+      "Coorg",
+      "Baba Budangiri",
+      "Pulneys",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-088",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Which one of the following districts of India is the largest in terms of geographical area?",
+    "options": [
+      "Leh",
+      "Kutch",
+      "Jaisalmer",
+      "Barmer",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-089",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "The State of India with the maximum number of wildlife sanctuaries is:",
+    "options": [
+      "Karnataka",
+      "Tamil Nadu",
+      "Maharashtra",
+      "Madhya Pradesh",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-090",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Which of the following rivers flowing in Bihar is a north-flowing river?",
+    "options": [
+      "Bagmati",
+      "Kamla",
+      "Kosi",
+      "Gandak",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 4,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-091",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Atal Tunnel is across which Himalayan range?",
+    "options": [
+      "Zanskar",
+      "Western Pir Panjal",
+      "Ladakh",
+      "Eastern Pir Panjal",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-092",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "India’s 13th major port is proposed to be set up in which State?",
+    "options": [
+      "Kerala",
+      "Gujarat",
+      "Maharashtra",
+      "Tamil Nadu",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-093",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Which one of the following States is a leading producer of solar energy in India?",
+    "options": [
+      "Telangana",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Rajasthan",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-094",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Which of the following mineral–district pairs is correctly matched?",
+    "options": [
+      "Limestone — Kaimur",
+      "Mica — Bhagalpur",
+      "Quartzite — Madhubani",
+      "Lead-Zinc — Gaya",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-095",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Which of the following industry–place pairs is not correctly matched?",
+    "options": [
+      "Oil refinery — Barauni",
+      "Cement — Banjari",
+      "Fertilizer — Bhaurahi",
+      "Wagon and engineering — Bhagalpur",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-096",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Piedmont Swamp Soil is found only in which district of Bihar?",
+    "options": [
+      "Madhubani",
+      "Bhagalpur",
+      "West Champaran",
+      "Sitamarhi",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-097",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "In which pair of administrative divisions of Bihar does the Ganga River not flow?",
+    "options": [
+      "Darbhanga — Munger",
+      "Purnea — Bhagalpur",
+      "Tirhut — Saran",
+      "Kosi — Magadh",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-098",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Which of the following tribe–district pairs is not correctly matched?",
+    "options": [
+      "Santhal — Banka",
+      "Munda — Jamui",
+      "Oraon — Supaul",
+      "Kharwar — Bhagalpur",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-099",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "What percentage of the total geographical area of Bihar is covered by forest?",
+    "options": [
+      "7.27%",
+      "6.87%",
+      "3.21%",
+      "12.77%",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 4,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-100",
+    "subject": "Geography",
+    "year": "2020",
+    "question": "Which district has the only National Park of Bihar?",
+    "options": [
+      "Nalanda",
+      "Bhagalpur",
+      "West Champaran",
+      "East Champaran",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-101",
+    "subject": "Polity",
+    "year": "2020",
+    "question": "Who won the bid to construct the new Parliament building recently?",
+    "options": [
+      "Larsen & Toubro Limited",
+      "Reliance Projects Limited",
+      "Tata Projects Limited",
+      "National Highways Authority of India",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-102",
+    "subject": "Polity",
+    "year": "2020",
+    "question": "Which Article of the Indian Constitution is related to the establishment of the Election Commission of India?",
+    "options": [
+      "Article 324",
+      "Article 148",
+      "Article 342",
+      "Article 325",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-103",
+    "subject": "Polity",
+    "year": "2020",
+    "question": "Who is the Head of the National Commission for Women at present?",
+    "options": [
+      "Mamta Sharma",
+      "Lalitha Kumaramangalam",
+      "Rekha Sharma",
+      "Smriti Irani",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-104",
+    "subject": "Polity",
+    "year": "2020",
+    "question": "What is meant by ‘Rule of Law’?",
+    "options": [
+      "One law for all and one judiciary for all",
+      "One law for all and one State for all",
+      "One State for all and one judiciary for all",
+      "All laws for one and one judiciary for all",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-105",
+    "subject": "Polity",
+    "year": "2020",
+    "question": "Which Article provides the list of 29 functions to be performed by the Panchayati Raj Institutions?",
+    "options": [
+      "Article 243(H)",
+      "Article 243(E)",
+      "Article 243(F)",
+      "Article 243(G)",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-106",
+    "subject": "Polity",
+    "year": "2020",
+    "question": "When was the Citizenship (Amendment) Act passed?",
+    "options": [
+      "11th December, 2018",
+      "11th December, 2019",
+      "11th October, 2019",
+      "11th October, 2020",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-107",
+    "subject": "Polity",
+    "year": "2020",
+    "question": "The legislative origins of the 73rd Constitutional Amendment Act can be traced back to which Constitutional Amendment Bill?",
+    "options": [
+      "61st Constitutional Amendment Bill",
+      "62nd Constitutional Amendment Bill",
+      "63rd Constitutional Amendment Bill",
+      "64th Constitutional Amendment Bill",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-108",
+    "subject": "Polity",
+    "year": "2020",
+    "question": "Which company established its factory at Patna in 1632?",
+    "options": [
+      "British East India Company",
+      "Dutch East India Company",
+      "Portuguese East India Company",
+      "French East India Company",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-109",
+    "subject": "Polity",
+    "year": "2020",
+    "question": "Which of the following is not a characteristic of decentralization?",
+    "options": [
+      "Autonomy",
+      "People’s participation",
+      "To instil non-confidence among local communities",
+      "To empower local communities",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-110",
+    "subject": "Polity",
+    "year": "2020",
+    "question": "Which Act is not considered a landmark in the development of the Indian Constitution during British rule?",
+    "options": [
+      "The Regulating Act, 1773",
+      "The Charter Act, 1833",
+      "The Government of India Act, 1919",
+      "The Protection of Civil Rights Act, 1955",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-111",
+    "subject": "Economy",
+    "year": "2020",
+    "question": "Which one among the following is not an objective of food management in India?",
+    "options": [
+      "Distribution of food grains",
+      "Procurement of food grains",
+      "Maintenance of buffer stock",
+      "Export of food grains",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-112",
+    "subject": "Economy",
+    "year": "2020",
+    "question": "Revenue deficit in India implies that:",
+    "options": [
+      "Government borrows to create capital assets",
+      "Government borrows for expenses that do not create capital assets",
+      "Government borrows from RBI against securities",
+      "Government borrows from international institutions",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-113",
+    "subject": "Economy",
+    "year": "2020",
+    "question": "Which country was India’s top trading partner in 2019–20?",
+    "options": [
+      "USA",
+      "China",
+      "UAE",
+      "Saudi Arabia",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-114",
+    "subject": "Economy",
+    "year": "2020",
+    "question": "Which infrastructure sector is related to the Bharatmala Project?",
+    "options": [
+      "Telecom",
+      "Railways",
+      "Road infrastructure",
+      "Port sector",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-115",
+    "subject": "Economy",
+    "year": "2020",
+    "question": "Which agency releases the Index of Industrial Production in India?",
+    "options": [
+      "National Sample Survey Office",
+      "Reserve Bank of India",
+      "Central Statistics Office",
+      "Indian Statistical Institute",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-116",
+    "subject": "Economy",
+    "year": "2020",
+    "question": "According to the Ease of Doing Business Report, 2020, India improved its rank from:",
+    "options": [
+      "77 to 63",
+      "130 to 100",
+      "100 to 77",
+      "77 to 67",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-117",
+    "subject": "Economy",
+    "year": "2020",
+    "question": "To improve institutional agricultural credit flow, what credit target for 2020–21 was fixed in the Union Budget of India?",
+    "options": [
+      "₹10 lakh crore",
+      "₹13.5 lakh crore",
+      "₹15 lakh crore",
+      "₹16.5 lakh crore",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-118",
+    "subject": "Economy",
+    "year": "2020",
+    "question": "The objective of the PM-KUSUM Scheme is to:",
+    "options": [
+      "Reduce farmers’ dependence on monsoon for irrigation",
+      "Reduce farmers’ dependence on moneylenders for credit",
+      "Promote floriculture in India",
+      "Remove farmers’ dependence on diesel and kerosene by linking pump sets to solar energy",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-119",
+    "subject": "Economy",
+    "year": "2020",
+    "question": "Which of the following commercial banks of India is among the top 100 global banks?",
+    "options": [
+      "ICICI Bank",
+      "State Bank of India",
+      "HDFC Bank",
+      "Kotak Mahindra Bank",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-120",
+    "subject": "Economy",
+    "year": "2020",
+    "question": "The Government of India announced the ‘NIRVIK’ scheme in the Union Budget 2020–21 for the benefit of which sector?",
+    "options": [
+      "Agriculture sector",
+      "Industrial sector",
+      "Health sector",
+      "Export sector",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-121",
+    "subject": "Bihar Specific",
+    "year": "2020",
+    "question": "The Comprehensive Financial Management System (CFMS) introduced by the Bihar Government aims to:",
+    "options": [
+      "Make all financial activities online and paperless",
+      "Solve the problem of NPAs of banks",
+      "Ensure effective implementation of State projects only",
+      "Manage only local body finances",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 4,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-122",
+    "subject": "Bihar Specific",
+    "year": "2020",
+    "question": "Bihar received the Krishi Karman Award on 2nd January 2020 for:",
+    "options": [
+      "Production and productivity of maize and wheat",
+      "Overall food grain production",
+      "Production of rice",
+      "Production of oilseeds",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-123",
+    "subject": "Bihar Specific",
+    "year": "2020",
+    "question": "The objective of the ‘Satat Jivikoparjan Yojana’ launched by the Bihar Government is to:",
+    "options": [
+      "Provide unemployment allowance to youth",
+      "Provide employment through local bodies",
+      "Provide sustainable income-generating assets to extremely poor households",
+      "Provide free skill upgradation training",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 4,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-124",
+    "subject": "Bihar Specific",
+    "year": "2020",
+    "question": "Which of the following is not included in the ‘Saat Nishchay’ (Seven Resolves) of the Bihar Government?",
+    "options": [
+      "Women employment",
+      "Clean drinking water",
+      "Supply of electricity to all households",
+      "Child welfare",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-125",
+    "subject": "Bihar Specific",
+    "year": "2020",
+    "question": "In 2018–19, the per capita Net State Domestic Product of Bihar at constant prices was approximately:",
+    "options": [
+      "75% of the national average",
+      "60% of the national average",
+      "50% of the national average",
+      "33% of the national average",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-126",
+    "subject": "History",
+    "year": "2020",
+    "question": "In which college did Mahatma Gandhi study?",
+    "options": [
+      "Samaldas College, Bhavnagar",
+      "Dharmendrasinhji College, Rajkot",
+      "Gujarat College, Ahmedabad",
+      "Bahauddin College, Junagadh",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-127",
+    "subject": "History",
+    "year": "2020",
+    "question": "Which of the following persons actively participated in the Revolt of 1857?",
+    "options": [
+      "Nana Saheb (Kanpur)",
+      "Begum Hazrat Mahal (Lucknow)",
+      "Maulavi Ahmadullah (Faizabad)",
+      "Begum Zeenat Mahal (Delhi)",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 4,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-128",
+    "subject": "History",
+    "year": "2020",
+    "question": "About which Act did Jawaharlal Nehru say, “We were provided with a car with all brakes and no engine”?",
+    "options": [
+      "Act of 1858",
+      "Act of 1909",
+      "Act of 1919",
+      "Act of 1935",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-129",
+    "subject": "History",
+    "year": "2020",
+    "question": "For how many days did the Dandi March last?",
+    "options": [
+      "10 days",
+      "20 days",
+      "24 days",
+      "30 days",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-130",
+    "subject": "History",
+    "year": "2020",
+    "question": "Who is the author of the popular song ‘Sarfaroshi Ki Tamanna Ab Hamare Dil Mein Hai’?",
+    "options": [
+      "Surya Sen",
+      "Chandra Shekhar Azad",
+      "Sardar Bhagat Singh",
+      "Ram Prasad Bismil",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 4,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-131",
+    "subject": "History",
+    "year": "2020",
+    "question": "Which movement was started as a reaction to the Partition of Bengal?",
+    "options": [
+      "Non-Cooperation Movement",
+      "Civil Disobedience Movement",
+      "Swadeshi Movement",
+      "Purna Swaraj Movement",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-132",
+    "subject": "History",
+    "year": "2020",
+    "question": "Who among the following advocates appeared for the INA trials at Delhi during 1945–46?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Bhulabhai Desai",
+      "K. M. Munshi",
+      "Sardar Patel",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-133",
+    "subject": "History",
+    "year": "2020",
+    "question": "Where did Madam Cama unfurl India’s tricolour flag of freedom?",
+    "options": [
+      "Paris",
+      "London",
+      "Stuttgart",
+      "Geneva",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-134",
+    "subject": "History",
+    "year": "2020",
+    "question": "Which of the following pairs is correctly matched?",
+    "options": [
+      "Vinoba Bhave — Second Individual Satyagrahi",
+      "C. R. Das — Deshbandhu",
+      "William Wedderburn — Congress President in 1907",
+      "Shyamji Krishna Varma — Founder of India House in Paris",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-135",
+    "subject": "History",
+    "year": "2020",
+    "question": "Which day was declared as ‘Purna Swaraj Day’ by the Indian National Congress?",
+    "options": [
+      "26 January 1930",
+      "15 August 1947",
+      "30 January 1948",
+      "31 December 1950",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-136",
+    "subject": "History",
+    "year": "2020",
+    "question": "When was the State of Bihar established?",
+    "options": [
+      "1911",
+      "1912",
+      "1913",
+      "1914",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-137",
+    "subject": "History",
+    "year": "2020",
+    "question": "Under the Tinkathia System in Bihar, how much land was reserved for indigo cultivation?",
+    "options": [
+      "1/10",
+      "1/3",
+      "3/20",
+      "3/25",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-138",
+    "subject": "History",
+    "year": "2020",
+    "question": "Who was the first Chief Minister of Bihar?",
+    "options": [
+      "Shri Krishna Singh",
+      "Satya Pal Malik",
+      "Nitish Kumar",
+      "Rabri Devi",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-139",
+    "subject": "History",
+    "year": "2020",
+    "question": "Where was the first Congress Session in Bihar held?",
+    "options": [
+      "Patna",
+      "Gaya",
+      "Muzaffarpur",
+      "Darbhanga",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-140",
+    "subject": "History",
+    "year": "2020",
+    "question": "Which title was given to Jayaprakash Narayan?",
+    "options": [
+      "Praja Hitechhu",
+      "Lok Nayak",
+      "Lokmanyasya",
+      "Rashtra Nayak",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-141",
+    "subject": "Quant & Reasoning",
+    "year": "2020",
+    "question": "What is the missing number in the sequence: 4, 18, 48, 100, ?, 294, 448?",
+    "options": [
+      "94",
+      "164",
+      "180",
+      "192",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-142",
+    "subject": "Quant & Reasoning",
+    "year": "2020",
+    "question": "If 2^nC3 : 3^nC2 = 44 : 3, then the value of n is:",
+    "options": [
+      "1",
+      "6",
+      "11",
+      "4",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-143",
+    "subject": "Quant & Reasoning",
+    "year": "2020",
+    "question": "If the average of m numbers is n² and that of n numbers is m², then the average of (m + n) numbers is:",
+    "options": [
+      "m",
+      "n",
+      "mn",
+      "m − n",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-144",
+    "subject": "Quant & Reasoning",
+    "year": "2020",
+    "question": "In a school, 21 students play basketball, 26 play hockey, and 29 play football. If 14 play hockey and basketball, 12 play football and basketball, 15 play hockey and football, and 8 play all three games, how many play football only?",
+    "options": [
+      "10",
+      "29",
+      "21",
+      "18",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-145",
+    "subject": "Quant & Reasoning",
+    "year": "2020",
+    "question": "Mohan can do a piece of work in 25 days and Sohan can do it in 20 days. They work together for 5 days, after which Mohan leaves. How many more days will Sohan take to complete the remaining work?",
+    "options": [
+      "20 days",
+      "11 days",
+      "14 days",
+      "21 days",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-146",
+    "subject": "Quant & Reasoning",
+    "year": "2020",
+    "question": "A clock is started at 12:00 noon. By 10 minutes past 5:00, through how many degrees has the hour hand turned?",
+    "options": [
+      "135°",
+      "145°",
+      "155°",
+      "165°",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-147",
+    "subject": "Quant & Reasoning",
+    "year": "2020",
+    "question": "Which of the following cannot be the square of a natural number?",
+    "options": [
+      "26569",
+      "143642",
+      "30976",
+      "28561",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-148",
+    "subject": "Quant & Reasoning",
+    "year": "2020",
+    "question": "If 217x + 131y = 913 and 131x + 217y = 827, then the values of x and y respectively are:",
+    "options": [
+      "5 and 7",
+      "3 and 2",
+      "-5 and -7",
+      "2 and 5",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-149",
+    "subject": "Quant & Reasoning",
+    "year": "2020",
+    "question": "The value of [(598 + 479)² − (598 − 479)²] / (598 × 479) is:",
+    "options": [
+      "4",
+      "10",
+      "132",
+      "8",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "bpsc-2020-150",
+    "subject": "Quant & Reasoning",
+    "year": "2020",
+    "question": "The population of a town is 176400. If it increases annually at the rate of 5%, what will be its population after two years?",
+    "options": [
+      "194481",
+      "296841",
+      "394481",
+      "396841",
+      "None of the above / More than one of the above"
+    ],
+    "answerIndex": 0,
+    "explanation": ""
+  }
+]

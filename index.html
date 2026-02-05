@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>BPSC PYQ Practice</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">BPSC 66th CCE Prelims 2020</p>
+          <h1>Practice General Studies MCQs, track accuracy, and build confidence.</h1>
+          <p class="subtext">
+            Start with the full 2020 set. You can import more questions later.
+          </p>
+        </div>
+        <div class="hero-card">
+          <div class="stat">
+            <span id="stat-attempted">0</span>
+            <small>Attempted</small>
+          </div>
+          <div class="stat">
+            <span id="stat-correct">0</span>
+            <small>Correct</small>
+          </div>
+          <div class="stat">
+            <span id="stat-accuracy">0%</span>
+            <small>Accuracy</small>
+          </div>
+        </div>
+      </header>
+
+      <main class="app">
+        <section class="panel controls">
+          <div class="control-group">
+            <label for="subjectSelect">Subject</label>
+            <select id="subjectSelect"></select>
+          </div>
+          <div class="control-group">
+            <label for="yearSelect">Year</label>
+            <select id="yearSelect"></select>
+          </div>
+          <div class="control-group">
+            <label for="questionIndex">Question</label>
+            <div class="inline">
+              <span id="questionIndex">1</span>
+              <span class="muted">/</span>
+              <span id="questionTotal">0</span>
+            </div>
+          </div>
+          <div class="control-group">
+            <label>Mode</label>
+            <label class="toggle">
+              <input type="checkbox" id="toggleWrongOnly" />
+              <span>Only wrong answers</span>
+            </label>
+          </div>
+          <div class="control-actions">
+            <button id="btn-shuffle" type="button">Shuffle set</button>
+            <button id="btn-reset" type="button" class="ghost">Reset stats</button>
+            <button id="btn-import" type="button" class="ghost">Import JSON</button>
+            <button id="btn-use-sample" type="button" class="ghost">Use default set</button>
+            <input id="fileInput" type="file" accept="application/json" hidden />
+          </div>
+        </section>
+
+        <section class="panel question-card" aria-live="polite">
+          <div class="question-meta">
+            <span id="questionSubject" class="pill">Subject</span>
+            <span id="questionYear" class="muted"></span>
+          </div>
+          <h2 id="questionText">Loading question…</h2>
+          <div id="options" class="options" role="list"></div>
+          <div id="feedback" class="feedback" role="status"></div>
+          <div class="question-actions">
+            <button id="btn-check" type="button">Check answer</button>
+            <button id="btn-next" type="button" class="ghost">Next</button>
+          </div>
+        </section>
+
+        <section class="panel notes">
+          <h3>How it works</h3>
+          <ul>
+            <li>Pick a <strong>year</strong> and subject to focus on PYQs.</li>
+            <li>Select an option and press “Check answer”.</li>
+            <li>Use “Only wrong answers” to drill weak areas.</li>
+            <li>Your progress is saved in this browser on this device.</li>
+            <li>Some questions may not have answer keys yet.</li>
+          </ul>
+          <div class="data-box">
+            <strong>Your data:</strong> Click <em>Import JSON</em> and select a file like
+            <code>pyqs.2020.json</code>. Each item should have:
+            <code>id, subject, year, question, options, answerIndex</code> (optional:
+            <code>explanation</code>).
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
